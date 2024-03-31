@@ -6,6 +6,6 @@ To perform targeted attacks in space, we are developing a spatial measure of con
 
 
 # Technical project overview
-[2D_grid_model.ipynb](https://github.com/lukablagoje/physical-network-robustness/blob/main/2D_grid_model.ipynb) - 2D grid models are created and their spatial connectivity properties are calculated
+[2D_grid_model.ipynb](https://github.com/lukablagoje/physical-network-robustness/blob/main/2D_grid_model.ipynb) - 2D grid models are created and the spatial connectivity of the grid that bins the space they are embedded in is calculated
 
 
