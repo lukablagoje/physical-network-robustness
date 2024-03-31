@@ -7,6 +7,7 @@ To perform targeted attacks in space, we are developing a spatial measure of con
 
 # Technical project overview
 [1. random_edge_removal.py](https://github.com/lukablagoje/physical-network-robustness/blob/main/1.%20random_edge_removal.py) - Removing random edges from the graph to observe how quickly they fall apart.
+
 [2D_grid_model.ipynb](https://github.com/lukablagoje/physical-network-robustness/blob/main/2D_grid_model.ipynb) - 2D grid models are created and the spatial connectivity of the grid that bins the space they are embedded in is calculated
 
 
