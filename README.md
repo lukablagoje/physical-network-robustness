@@ -1,4 +1,4 @@
-# Research overview
+# Physical network robustness
 This project is a part of the published research work "Understanding the Impact of physicality on network structure", done in the emerging field of Physical Networks, which aims to understand the properties of three-dimensional networked systems (such as biological neural networks).
 
 A concept of "generalized meta-graph", which I implemented in Python (using point clouds and kd-trees), by encoding information on Euclidean distances between neighboring edges.
