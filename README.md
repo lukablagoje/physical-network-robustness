@@ -2,8 +2,7 @@
 In this project, we are simulating 2D and 3D graphs of physical attacks (spatial edge removal) in their embedding space Specifically, we are focused on random and targeted attacks to identify how robust the networks are. 
 To perform targeted attacks in space, we are developing a spatial measure of connectivity, that can be applied to both 2D and 3D datasets. Below are the random graph (Erdos-Renyi) grid models we are currently working with where we develop such measures, for different rewiring probabilities $p$:
 
-![tile_animation_airline](https://github.com/user-attachments/assets/30650d0f-8a66-435e-b99f-931bb9eed53b)
-
+![original_tile_removal_animation](https://github.com/user-attachments/assets/644d12bd-d9a5-4b28-a4b0-b697c5af132f)
 
 
 # Technical project overview
