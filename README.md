@@ -4,6 +4,7 @@ To perform targeted attacks in space, we are developing a spatial measure of con
 
 ![original_tile_removal_animation](https://github.com/user-attachments/assets/644d12bd-d9a5-4b28-a4b0-b697c5af132f)
 
+![fruit_fly_4_original_tile_removal_animation (1)](https://github.com/user-attachments/assets/b0d94636-cc8c-441a-893a-11ea962b50a3)
 
 # Technical project overview
 [1. random_edge_removal.py](https://github.com/lukablagoje/physical-network-robustness/blob/main/1.%20random_edge_removal.py) - Removing random edges from the graph to observe how quickly they fall apart.
